@@ -83,7 +83,9 @@
     aspect-ratio: 1 / 1;
 }
 
-#prompt {
+.options
+button {
+    color: rgb(203, 203, 203);
     background-color: rgb(150, 0, 0);
     border: 6px inset rgb(200, 0, 0); 
 
